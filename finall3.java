@@ -6,7 +6,7 @@ public class finall3 {
     }
 }
 
- final class atmpin{
+class atmpin{ //final class atmpin{
     void pin(){
         System.out.println("1243");
     }
